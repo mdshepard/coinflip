@@ -1,0 +1,13 @@
+.heads {
+    width: 100px;
+    height: 100px;
+    background-image:url(/Users/morgan/Documents/projects/Coinflip/heads.jpg);
+    background-size: 100%;
+}
+
+.tails {
+    width: 100px;
+    height: 100px;
+    background-image:url(/Users/morgan/Documents/projects/Coinflip/tails.jpg);
+    background-size: 100%;
+}

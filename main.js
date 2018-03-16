@@ -36,6 +36,3 @@ for (i = 0; i < 20; i++) {
     coin.toString();
     coin.toHTML();
 }
-// for (j = 0; j < 20; i++) {
-//     coin.toHTML();
-// }
